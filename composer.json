@@ -1,0 +1,22 @@
+{
+    "name": "fastd/pagination",
+    "description": "pagination",
+    "license": "MIT",
+    "type": "library",
+    "keywords": ["fdb", "fastd", "FastD"],
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "janhuang",
+            "email": "bboyjanhuang@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7"
+    },
+    "autoload": {
+        "psr-4": {
+            "FastD\\": "src"
+        }
+    }
+}
